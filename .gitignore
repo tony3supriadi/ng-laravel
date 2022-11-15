@@ -15,7 +15,7 @@ yarn-error.log
 /.vscode
 
 # compiled output
-/public/dist
+# /public/dist
 /public/tmp
 /public/out-tsc
 
