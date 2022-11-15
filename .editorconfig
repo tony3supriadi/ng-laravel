@@ -9,10 +9,14 @@ indent_size = 4
 trim_trailing_whitespace = true
 
 [*.md]
+max_line_length = off
 trim_trailing_whitespace = false
 
 [*.{yml,yaml}]
 indent_size = 2
+
+[*.ts]
+quote_type = single
 
 [docker-compose.yml]
 indent_size = 4
